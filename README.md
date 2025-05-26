@@ -1,4 +1,4 @@
-# Inventory-Management-System
+# Bill_Generation_System
 
 • Technologies Used: Java, Spring boot, MySQL
 
